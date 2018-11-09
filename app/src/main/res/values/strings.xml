@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PaginationListRetrofit</string>
+    <string name="Title">Title</string>
+    <string name="Body">Body</string>
+</resources>
